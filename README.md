@@ -22,7 +22,8 @@ _Create a GitHub Action and use it in a workflow._
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
-- **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
+- **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users. 
+- **UPDATE BIG
 - **What you'll learn**: How to create workflow files, trigger workflows, and find workflow logs.
 - **What you'll build**: An Actions workflow that will check emoji shortcode references in Markdown files.
 - **Prerequisites**: In this course you will work with issues and pull requests, as well as edit files. We recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course first.
@@ -58,7 +59,7 @@ _Welcome to "Hello GitHub Actions"! :wave:_
 -  The GitHub Actions feature page, see  [GitHub Actions](https://github.com/features/actions).
 -  The "GitHub Actions" user documentation, see [GitHub Actions](https://docs.github.com/actions).
 
-**What is a _workflow_?**: A workflow is a configurable automated process that will run one or more jobs. Workflows are defined in special files in the `.github/workflows` directory and they execute based on your chosen event. For this exercise, we'll use a `pull_request` event. 
+**What is a _workflow_?**: UPDATE BIG UPDATE BIGUPDATE BIGUPDATE BIGA workflow is a configurable automated process that will run one or more jobs. Workflows are defined in special files in the `.github/workflows` directory and they execute based on your chosen event. For this exercise, we'll use a `pull_request` event. 
 
 - To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
 - If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
